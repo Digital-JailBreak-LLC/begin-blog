@@ -1,2 +1,0 @@
-# begin-blog
-Begin app
